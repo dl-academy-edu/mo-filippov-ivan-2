@@ -1,1 +1,3 @@
-# mo-filippov-ivan-2
+# Личный проект "Фрукты"
+* Студент [Филиппов Иван](http://t.me/orloffart)
+* Наставник [Митрофанова Ольга](http://t.me/mitrofanovaoa)
